@@ -1,0 +1,1 @@
+This project is a career simulation. The goal is to crete a site where you can login, create a user, see book details.
