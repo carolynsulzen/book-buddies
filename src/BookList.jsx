@@ -18,7 +18,7 @@ const BookList = (props) => {
 
   return(
     <>
-      <h1>List of books</h1>
+      <h1 class = "listh1">List of books</h1>
       <ul>
         {props.bookList.map((individualBook) => {
           return(

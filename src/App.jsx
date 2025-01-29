@@ -12,7 +12,6 @@ const App = () => {
   return (
     <>
       < Header />
-      <h1>Your Library</h1>
       {
         selectedBook.id ?
         <BookDetails selectedBook = {selectedBook} bookList = {bookList}/> :
